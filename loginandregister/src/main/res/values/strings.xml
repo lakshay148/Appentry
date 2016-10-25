@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Loginandregister</string>
+    <string name="enter_user_n_pass">Please enter username and password</string>
+    <string name="enter_valid_phone">Please enter valid phone number</string>
+</resources>
