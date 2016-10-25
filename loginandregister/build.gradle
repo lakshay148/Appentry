@@ -43,7 +43,7 @@ ext {
     siteUrl = 'https://github.com/lakshay148/Appentry.git'
     gitUrl = 'https://github.com/lakshay148/Appentry.git'
 
-    libraryVersion = '1.0.0'
+    libraryVersion = '1.0.1'
 
     developerId = 'lakshay'
     developerName = 'Lakshay Girdhar'
